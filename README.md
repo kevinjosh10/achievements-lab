@@ -8,8 +8,8 @@ This repository serves as a dedicated collaborative space for open-source engine
 
 ## 👥 Collaborators
 - **Kevin Joshua L** ([@kevinjosh10](https://github.com/kevinjosh10))
+- **Leela Prasath S** ([@leelaprasath-cmd](https://github.com/leelaprasath-cmd))
 - **Netizen** ([@j07087021-netizen](https://github.com/j07087021-netizen))
-- **Leela Prasath** ([leelaprsth@gmail.com](mailto:leelaprsth@gmail.com))
 
 ---
 
@@ -24,4 +24,5 @@ This repository serves as a dedicated collaborative space for open-source engine
 
 ## 🚀 Milestones & Engineering Experiments
 - **Cloud Architecture & Event-Driven Systems**: Solved core event propagation, Lambda efficiency, and defense-in-depth security best practices.
+- **Agentic AI & Multi-Agent Workflows**: Collaborative research on distributed multi-agent systems, RAG architectures, and AI tooling.
 - **Collaborative Pair Programming**: Distributed cross-account git workflows and co-authored commit synchronization.
