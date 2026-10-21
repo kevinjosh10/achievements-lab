@@ -27,3 +27,10 @@ Co-authored-by: Kevin Joshua L <kingkevinjosh7@gmail.com>
 - **Kevin Joshua L** (@kevinjosh10)
 - **Leela Prasath S** (@leelaprasath-cmd)
 - **Netizen** (@j07087021-netizen)
+
+## 🔄 Peer Review & Merging Strategy
+For merged contributions to be fully tracked and credited across profiles:
+1. Always open a pull request targeting the repository's default branch (`main`).
+2. Verify all co-author emails are linked to valid GitHub user accounts.
+3. Merge via standard merge commit to preserve full git metadata and trailer provenance.
+
