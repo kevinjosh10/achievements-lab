@@ -25,4 +25,4 @@ This repository serves as a dedicated collaborative space for open-source engine
 ## 🚀 Milestones & Engineering Experiments
 - **Cloud Architecture & Event-Driven Systems**: Solved core event propagation, Lambda efficiency, and defense-in-depth security best practices.
 - **Agentic AI & Multi-Agent Workflows**: Collaborative research on distributed multi-agent systems, RAG architectures, and AI tooling.
-- **Collaborative Pair Programming**: Distributed cross-account git workflows and co-authored commit synchronization.
+- **Collaborative Pair Programming**: Distributed cross-account git workflows and co-authored commit synchronization. See [Pair Programming Guide](docs/PAIR_PROGRAMMING.md).
